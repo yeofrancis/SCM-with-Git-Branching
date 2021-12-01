@@ -1,4 +1,4 @@
-# Git-and-Branching
+# Branching Strategy
 
 User Story : A 3-months new start-up with 2 small group of developers handling separately Frontend and Backend development.
 The company have been using Git, and want to have a more organise and structure process in Source Code Management.
