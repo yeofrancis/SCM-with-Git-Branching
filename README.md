@@ -1,6 +1,6 @@
 # Branching Strategy
 
-### User Story :\
+### User Story :
 A 3-months new start-up with 2 small group of developers handling separately Frontend and Backend development.
 The company have also started to look into mobile app and is forming a mobile app developer team. The company have been using Git, 
 and want to have a more organise and structure process in Source Code Management. The DevOps team is tasked to set up an appropriate SCM framework taking into the below considerations:
@@ -17,7 +17,8 @@ and want to have a more organise and structure process in Source Code Management
  
  # Which Strategy
     
-Which strategy should I use??\😕 Kindly provide your comment....Thanks.🙏
+Which strategy should I use??😕 \
+Kindly provide your comment....Thanks.🙏 \
 There are several approaches:
   
 [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/)\
