@@ -25,5 +25,28 @@ There are several approaches:
 [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)\
 [GitLab Flow](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)\
 [OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
+#### The 10 Basic Commands of Git you must know
+  1. git add .\
+     tell git to add or include all files in the next commit
+  2. git commit -m "descriptions"\
+     takes all added files and commits them to project history
+  3. git push\
+     move all committed changes to remote repository.
+  4. git status\
+     display cirrent status of working directory
+  5. git clone <repo_name>\
+     make a duplicate of an existing Git repository
+  6. git checkout -b <new_branch_name>\
+     create a new branch on your local machine and open it
+  7. git branch -d <branch_name>
+     delete a branch on your local machine
+  8. git pull\
+     get all changes from the remote to your local copy
+  9. git merge <branch_name>\
+     integrate all changes from another branch into yours
+  10. git stash\
+      stores uncommitted changes for use latter and subsequently reverts them from your working copy
+  
+  These help me alot in my git process, kindly give me a star if this have help you in one way or another, Thanks. 😘
   
   
