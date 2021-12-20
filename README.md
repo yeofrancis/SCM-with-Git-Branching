@@ -33,7 +33,7 @@ There are several approaches:
   3. git push\
      move all committed changes to remote repository.
   4. git status\
-     display cirrent status of working directory
+     display current status of working directory
   5. git clone <repo_name>\
      make a duplicate of an existing Git repository
   6. git checkout -b <new_branch_name>\
