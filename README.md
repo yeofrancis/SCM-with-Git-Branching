@@ -25,7 +25,7 @@ There are several approaches:
 [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)\
 [GitLab Flow](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)\
 [OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
-#### The 10 Basic Commands of Git you must know
+#### The 10 Basic Commands of Git that I use
   1. git add .\
      tell git to add or include all files in the next commit
   2. git commit -m "descriptions"\
