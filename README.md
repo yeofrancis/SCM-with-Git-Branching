@@ -10,13 +10,22 @@ and want to have a more organise and structure process in Source Code Management
  - include mobile app conditions.
  <p>
  
- # Contributing
+ ## Contributing
  Please contribute using [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow). Create a branch, add commits, and open a pull request.
+  <p>
+   
+ ### Git
+   
+   Git enable communication between the development and the operations team, which improve and enhance collaboration between teams. Commit messages 
+   plays a very important role in communicating among the team and is most essential to succeed a DevOps implementation.
+     
+  ![Distributed-Version-Control-System-Workflow-What-Is-Git-Edureka-768x508](https://user-images.githubusercontent.com/82499575/148675682-ab04a659-3ed5-442c-83be-396c7edef81c.png)
+
+ ### Which Strategy
+   
+   ![Git-And-Git-Work-Flows-How-To-Become-A-DevOps-Engineer-Edureka](https://user-images.githubusercontent.com/82499575/148675939-eab5f5f6-ec2b-4867-87a8-1286b078eb1b.png)
+
  
- <p>
- 
- # Which Strategy
-    
 Which strategy should I use??😕 \
 Kindly provide your comment....Thanks.🙏 \
 There are several approaches:
